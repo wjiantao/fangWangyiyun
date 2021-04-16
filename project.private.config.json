@@ -1,0 +1,29 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "推荐",
+          "pathName": "songPackage/pages/recommendSong/recommendSong",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "推荐",
+          "pathName": "songPackage/pages/recommendSong/recommendSong",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

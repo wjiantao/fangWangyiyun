@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "NavHeader": "../../components/NavHeader/NavHeader"
+  },
+  "navigationBarTitleText": "网易云音乐"
+}
